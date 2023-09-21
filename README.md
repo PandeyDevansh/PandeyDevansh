@@ -8,6 +8,7 @@
 - [WAZUH SIEM in Azure cloud](https://github.com/PandeyDevansh/ActiveDirectoryLab)
 - [CyberSecurity Avaireness with CyberCell Gujarat](https://github.com/PandeyDevansh/ActiveDirectoryLab)
 - [CyberSecurity workshop organizer in Ganpat University](https://github.com/PandeyDevansh/ActiveDirectoryLab)
+- [Security Sniper](https://github.com/PandeyDevansh/ActiveDirectoryLab)
 
 <h2>🥇Certifications</h2>
 
