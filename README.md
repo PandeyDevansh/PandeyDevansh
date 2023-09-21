@@ -9,6 +9,8 @@
 - [CyberSecurity Avaireness with CyberCell Gujarat](https://github.com/PandeyDevansh/ActiveDirectoryLab)
 - [CyberSecurity workshop organizer in Ganpat University](https://github.com/PandeyDevansh/ActiveDirectoryLab)
 - [Security Sniper](https://github.com/PandeyDevansh/ActiveDirectoryLab)
+- [Setup DVWA Virtual Environment](https://github.com/PandeyDevansh/ActiveDirectoryLab)
+- [Nessus setup and solving CTF of Tryhackme](https://github.com/PandeyDevansh/ActiveDirectoryLab)
 
 <h2>🥇Certifications</h2>
 
